@@ -12,4 +12,4 @@ For convenience, I also combined the history load and actural load in the predic
 In this work, hisotry data window is 2008-07-01 to 2021-06-19 and the prediction window is 2021-06-20 to 2021-06-26.
 
 ## Model and Result
-Trained a regression model using XGBoost. Achieved a RSME of 460.8 outof 9283.3 (4.96%).
+Trained a regression model using XGBoost. Achieved a RMSE of 460.8 outof 9283.3 (4.96%).
